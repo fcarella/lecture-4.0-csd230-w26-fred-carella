@@ -5,7 +5,8 @@ Timeline*.json
 assets/
 package-lock.json
 *.svg
-mvn.*
+mvn*.*
+mvnw
 
 node_modules/
 target/
