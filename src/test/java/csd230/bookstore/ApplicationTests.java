@@ -9,5 +9,8 @@ class ApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
+	@Test
+	void breaking_test() {
+		assert(false);
+	}
 }
